@@ -10,4 +10,6 @@ To run the program is very simple and I'll kist the steps right below:
 
 - The first one you will start the receiver_prime.py by the command:
 
+
     python receiver_prime.py
+
