@@ -17,7 +17,7 @@ To run the program is very simple and I'll kist the steps right below:
     python prime.py
     
 
-- Now, you open your browser and acess your localhost:5000 or http://127.0.0.1:5000.
+- Now, you open your browser and acess your localhost:5000 or http://127.0.0.1:5000
 
 - You have two URL's to acess, and each one of them has 1 variable to be inserted.
 
